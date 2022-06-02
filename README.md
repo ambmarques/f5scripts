@@ -10,6 +10,7 @@ sys - $ Installed default
 getpass $ Installed default  
 
 **Usage**  
+Change on code values on alllbs array for yours LBs values  
 search.py IP (format xxx.xxx.xxx.xxx)  
 Will prompt for F5 credentials (Username and Password)
 
