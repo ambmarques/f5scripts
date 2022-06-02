@@ -6,9 +6,9 @@ To use / tested with versions Python >= 3.6
 
 Modules : 
 
-F5 SDK - $ pip install f5-sdk\n
-sys - $ Installed default
-getpass $ Installed default
+F5 SDK - $ pip install f5-sdk\n  
+sys - $ Installed default  
+getpass $ Installed default  
 
 Usage : 
 search.py IP (format xxx.xxx.xxx.xxx)
