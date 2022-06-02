@@ -14,4 +14,4 @@ search.py IP (format xxx.xxx.xxx.xxx)
 Will prompt for F5 credentials (Username and Password)
 
 Screenshot
-![alt text](https://github.com/ambmarques/f5scripts/blob/main/search_screenshot.PNG?raw=true)
+(https://github.com/ambmarques/f5scripts/blob/main/search_screenshot.PNG?raw=true)
