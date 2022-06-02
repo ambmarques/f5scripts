@@ -9,8 +9,8 @@ F5 SDK - $ pip install f5-sdk\n
 sys - $ Installed default  
 getpass $ Installed default  
 
-**Usage**
-search.py IP (format xxx.xxx.xxx.xxx)
+**Usage**  
+search.py IP (format xxx.xxx.xxx.xxx)  
 Will prompt for F5 credentials (Username and Password)
 
 **Screenshot**  
